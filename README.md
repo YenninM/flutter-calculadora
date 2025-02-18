@@ -1,16 +1,11 @@
-# mi_calculadora
+mi_calculadora
+This project is a simple calculator built with Flutter, allowing users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The app was created as part of an exercise to learn and practice mobile app development with Flutter.
 
-A new Flutter project.
+Description
+The app was developed using Flutter, a mobile development framework created by Google, which allows you to build native applications for both iOS and Android from a single codebase. Android Studio was used as the integrated development environment (IDE) for building and running the project.
 
-## Getting Started
+The app was simulated and tested using the Pixel 9 Pro API 35 emulator to ensure compatibility and smooth functionality on Android devices.
 
-This project is a starting point for a Flutter application.
+This project features a simple and modern user interface, designed to be easy to use, with buttons for each number and mathematical operation. It's a basic yet effective tool, perfect for users who need to make quick calculations.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1739900607](https://github.com/user-attachments/assets/5ff493ca-e8bc-428e-859c-00585663d85e)
